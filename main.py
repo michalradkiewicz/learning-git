@@ -1,3 +1,3 @@
-print("'Martwa Papuga', to najlepszy skecz Monty Pythona")
+print("'Ministerstwo Głupich Kroków', to najlepszy skecz Monty Pythona")
 
      
